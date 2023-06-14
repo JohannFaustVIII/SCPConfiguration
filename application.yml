@@ -1,7 +1,7 @@
 example:
-  property: ABC123-FaustVIII-changedN9
+  property: ABC123-FaustVIII-changedN10
  
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://admin:examplePassword@localhost:18091/eureka/
+      defaultZone: http://admin:examplePassword@discovery:18091/eureka/
